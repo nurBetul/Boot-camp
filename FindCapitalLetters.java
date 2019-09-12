@@ -1,5 +1,5 @@
 package Exercises;
-
+// The program finding the number of capital letters in a given string.
 public class FindCapitalLetters {
     public static int findCapitals(String word){
         int number = 0;
