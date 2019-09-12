@@ -1,5 +1,5 @@
 package Exercises;
-
+// Program displays the fibonacci numbers as the given number.
 public class Fibonacci {
     public static void displayFibonacci(int n){
         System.out.print("0, 1, 1,");
